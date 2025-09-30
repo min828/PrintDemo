@@ -1,4 +1,4 @@
-name = "ALice"
+name = "Min"
 age= 25
 score = 95.5
 
