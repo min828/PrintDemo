@@ -1,0 +1,5 @@
+main_print_v1.ipynb
+*.avi
+
+venv/
+.vcode/
